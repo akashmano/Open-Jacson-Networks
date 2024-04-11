@@ -1,4 +1,4 @@
-[# Series Queues with infinite capacity - Open Jackson Network
+# Series Queues with infinite capacity - Open Jackson Network
 
 # Name: AKASH M
 # Register No:212223240003
@@ -75,4 +75,3 @@ print("----------------------------------------------------------------------")
 The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
 
 
-](https://github.com/akashmano/Muttiple-capacity-with-infinite-capacity/blob/main/README.md)
